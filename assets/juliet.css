@@ -60,7 +60,7 @@ section.links {
 	font-size:1.8rem;
 	margin-bottom: 10px;
 	color:#4a3d32;
-	margin-right:15px;
+	margin-right:10px;
 	z-index: 1;
 }
 .navbar a:hover{
@@ -155,4 +155,11 @@ section.links {
  .navbar span {
  	margin-left: 10%;
  }
+ .navbar {
+ 	z-index: 1;
+ }
+ .fab {
+ 	z-index: 1;
+ }
+
 }
