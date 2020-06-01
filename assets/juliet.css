@@ -47,6 +47,7 @@ section.links {
 	position: sticky;
 	top:0;
 	background-color: #f2f5f7;
+	z-index: 1;
 }
 .navbar a {
 	padding: 12px 14px;
@@ -60,6 +61,7 @@ section.links {
 	margin-bottom: 10px;
 	color:#4a3d32;
 	margin-right:15px;
+	z-index: 1;
 }
 .navbar a:hover{
 	color:#f54542;
